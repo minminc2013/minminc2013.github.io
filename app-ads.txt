@@ -1,0 +1,15 @@
+google.com, pub-8629629964991221, DIRECT, f08c47fec0942fa0
+google.com, pub-5876238255511811, DIRECT, f08c47fec0942fa0
+google.com, pub-1032758003847822, DIRECT, f08c47fec0942fa0
+google.com, pub-1026697378993042, DIRECT, f08c47fec0942fa0
+google.com, pub-9185241502466292, DIRECT, f08c47fec0942fa0
+pangle.cn, 5127, DIRECT
+pangle.cn, 9759, DIRECT
+pangle.cn, 24936, DIRECT
+acd.op.hicloud.com,601907799353459072,DIRECT
+adx-dre.op.hicloud.com,601907799353459072,DIRECT
+adx-drru.op.hicloud.com,601907799353459072,DIRECT
+adx-dra.op.hicloud.com,601907799353459072,DIRECT
+adx-drru.op.dbankcloud.ru,601907799353459072,DIRECT
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf9807,DIRECT
+catapultx.com,141027,DIRECT
